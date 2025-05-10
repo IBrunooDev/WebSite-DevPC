@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wdth@0,75..100;1,75..100&display=swap');
+
+:root {
+    --Cor-Texto: #ffffff;
+    --Cor-Fundo-Inicio: #2c3e50;
+    --Cor-Destaque: #3498db;
+    --Cor-Secundaria: #55312d81;
+    --Cor-Hover: #2980b9;
+    --Cor-Card: rgba(52, 152, 219, 0.1);
+    --Gradiente-Fundo: linear-gradient(135deg, #2c3e50, #3498db);
+}
+
+:root{
+    /* Cor De Fundo Do Inicio Da Page */
+    --Cor-Fundo-Inicio: #48484864;
+}
+
